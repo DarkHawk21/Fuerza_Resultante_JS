@@ -1,3 +1,6 @@
+sistem valueador de estadistica -> sedai.soldestoficial.com
+premio al gobierno aberto
+
 (function(){
     //Los botones de funcionamiento del programa.
     const btnPendiente = document.getElementById("btnPendiente");
